@@ -95,8 +95,8 @@ The `DQNAgent` class implements the Deep Q-Learning algorithm.
 
 1.  **Clone the repository (or download the files):**
     ```bash
-    git clone <your-repo-url>
-    cd <your-repo-directory>
+    git clone Traffic_light_simulator_using_rl
+    cd Traffic_light_simulator_using_rl
     ```
 
 2.  **Install the required Python packages:**
