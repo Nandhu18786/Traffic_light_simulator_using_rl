@@ -16,7 +16,7 @@ This project implements a Deep Q-Network (DQN) agent to control a complex traffi
 - [Usage](#usage)
 - [Configuration Parameters](#configuration-parameters)
 - [Outputs](#outputs)
-- [Potential Improvements](#potential-improvements)
+
 
 ## Project Overview
 
