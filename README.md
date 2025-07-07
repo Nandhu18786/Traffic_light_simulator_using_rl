@@ -56,7 +56,7 @@ def step(self, action):
         phase = action % PHASES
         traci.trafficlight.setPhase(tl_id, phase)
 ```
-**Note:** This is a major simplification. See [Potential Improvements](#potential-improvements) for more details.
+
 
 ### Reward Function
 The **reward** signal guides the agent's learning process. The reward function is designed to penalize waiting time:
