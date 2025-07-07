@@ -135,4 +135,3 @@ After the script finishes, it will generate two files:
 
 - **Reward Function**: The reward function could be tuned or expanded to consider other metrics like vehicle throughput, emergency vehicle priority, or fuel consumption.
 - **Hyperparameter Tuning**: The performance is sensitive to hyperparameters like `ALPHA`, `GAMMA`, and `EPSILON_DECAY`. Using techniques like Grid Search or Bayesian Optimization could find a better set of values.
-- **Advanced RL Algorithms**: More modern algorithms like Double DQN, Dueling DQN, or Proximal Policy Optimization (PPO) could lead to faster and more stable learning.
